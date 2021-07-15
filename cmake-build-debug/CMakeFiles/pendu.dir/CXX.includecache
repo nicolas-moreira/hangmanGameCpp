@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nicolas/CLionProjects/pendu/fonctions/fonctions.cpp
+string
+-
+iostream
+-
+fstream
+-
+time.h
+-
+cstring
+-
+fonctions.h
+/home/nicolas/CLionProjects/pendu/fonctions/fonctions.h
+
+/home/nicolas/CLionProjects/pendu/fonctions/fonctions.h
+string
+-
+
